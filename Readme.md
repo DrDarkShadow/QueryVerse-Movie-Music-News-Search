@@ -283,7 +283,7 @@ copies or substantial portions of the Software.
 - Open-source community and collaborative development
 
 ### 👥 Contributors
-- **Your Name** - *Initial work* - [@yourusername](https://github.com/yourusername)
+- Prateek Gaur - *Initial work* - [@DrDarkShadow](https://github.com/DrDarkShadow)
 
 ---
 
